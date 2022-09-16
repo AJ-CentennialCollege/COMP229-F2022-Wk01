@@ -1,0 +1,19 @@
+{
+  "name": "week01-lab",
+  "version": "0.0.1",
+  "description": "Lab1 - Github Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJ-CentennialCollege/COMP229-F2022-Wk01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJ-CentennialCollege/COMP229-F2022-Wk01/issues"
+  },
+  "homepage": "https://github.com/AJ-CentennialCollege/COMP229-F2022-Wk01#readme"
+}
